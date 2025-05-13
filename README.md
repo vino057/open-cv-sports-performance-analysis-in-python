@@ -1,6 +1,6 @@
 # open-cv-sports-performance-analysis-in-python
 
-Author: Vino M
+Author: Vino rajendran M
 
 📌 Overview
 This project leverages Python and OpenCV to analyze sports performance through video footage. By processing video frames, the system can detect players, track movements, and compute metrics such as speed and distance covered. It's designed to assist coaches, analysts, and enthusiasts in evaluating and improving athletic performance.
